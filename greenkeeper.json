@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "angular5/package.json",
+        "hystrix/package.json",
+        "jquery/package.json",
+        "react/client/package.json",
+        "react/package.json",
+        "seneca/package.json"
+      ]
+    }
+  }
+}
